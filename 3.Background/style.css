@@ -18,6 +18,9 @@
 }
 
 .exercise4 {
+  background-image: url("img/w3lynx.png");
+  background-position: top right;
+  background-repeat: no-repeat;
   padding-bottom: 200px;
 }
 
