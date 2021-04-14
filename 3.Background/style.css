@@ -12,6 +12,8 @@
 }
 
 .exercise3 {
+  background-image: url("img/gradient_bg_vertical.png");
+  background-repeat: repeat-y;
   padding-bottom: 200px;
 }
 
