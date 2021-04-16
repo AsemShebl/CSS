@@ -1,0 +1,47 @@
+h1 {
+  background-color: lightblue;
+  margin-left: 20px;
+  padding-left: 20px;
+}
+
+h2 {
+  background-color: lightblue;
+  margin-top: 25px;
+  margin-right: 25px;
+  margin-bottom: 25px;
+  margin-left: 25px;
+  /* or we can use
+  margin: 25px;
+  or
+  margin: 25px 25px; */
+  padding-top: 25px;
+  padding-right: 25px;
+  padding-bottom: 25px;
+  padding-left: 25px;
+  /* or we can use
+  padding: 25px;
+  or
+  padding: 25px 25px; */
+}
+
+h3 {
+  background-color: lightblue;
+  margin-top: 50px;
+  margin-right: 25px;
+  margin-bottom: 50px;
+  margin-left: 25px;
+  /* or we can use
+  margin: 50px 25px */
+  padding-top: 50px;
+  padding-right: 25px;
+  padding-bottom: 50px;
+  padding-left: 25px;
+  /* or we can use
+  padding: 50px 25px */
+}
+
+h4 {
+  background-color: lightblue;
+  width: 300px;
+  margin: auto;
+}
