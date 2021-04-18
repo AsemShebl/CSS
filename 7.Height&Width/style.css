@@ -1,0 +1,15 @@
+h1 {
+  background-color: lightblue;
+  height: 100px;
+  font-family: sans-serif;
+  font-weight: bolder;
+  color: brown;
+}
+
+p {
+  background-color: lightblue;
+  width: 50%;
+  font-family: sans-serif;
+  font-weight: bolder;
+  color: brown;
+}
