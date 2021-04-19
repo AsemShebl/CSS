@@ -1,0 +1,9 @@
+div {
+  font-family: sans-serif;
+  font-weight: bold;
+  background-color: lightblue;
+  width: 200px;
+  padding: 25px;
+  border: 25px solid navy;
+  margin: 25px;
+}
