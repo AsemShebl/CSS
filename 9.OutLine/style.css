@@ -1,0 +1,20 @@
+h1 {
+  background-color: lightblue;
+  height: 100px;
+  font-family: sans-serif;
+  font-weight: bolder;
+  color: brown;
+  outline: red dotted 10px;
+}
+
+p {
+  background-color: lightblue;
+  width: 50%;
+  font-family: sans-serif;
+  font-weight: bolder;
+  color: brown;
+
+  outline-style: solid;
+  outline-width: 5px;
+  outline-color: green;
+}
