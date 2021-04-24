@@ -1,0 +1,58 @@
+ul {
+  list-style: circle inside url("./img_marker.png");
+  font-size: 130px;
+}
+
+/* unvisited link */
+a:link {
+  color: red;
+  text-decoration: none;
+  background-color: lightblue;
+}
+
+/* visited link */
+a:visited {
+  color: blue;
+  text-decoration: none;
+  background-color: lightblue;
+}
+
+/* mouse over link */
+a:hover {
+  color: black;
+  text-decoration: underline;
+  background-color: yellow;
+}
+
+/* selected link */
+a:active {
+  color: green;
+  text-decoration: underline;
+  background-color: yellow;
+}
+
+body {
+  font-family: "Courier New";
+  font-size: 20px;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-style: italic;
+  font-family: Verdana;
+  font-size: 3em;
+}
+
+h2 {
+  font: italic 20px Verdana;
+}
+
+p {
+  text-transform: capitalize;
+  text-indent: 20px;
+  font-family: sans-serif;
+  font-size: larger;
+  font-weight: bold;
+  font-style: italic;
+}
