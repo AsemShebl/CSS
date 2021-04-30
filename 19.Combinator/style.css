@@ -1,0 +1,11 @@
+div p {
+  color: red;
+  font-family: sans-serif;
+  background-color: gray;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+body {
+  background-color: honeydew;
+}
