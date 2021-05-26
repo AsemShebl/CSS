@@ -5,7 +5,7 @@ h1 {
   font-family: Verdana;
   font-size: 4em;
   background-color: rgba(0, 255, 0, 0.3);
-  text-shadow: 2px 2px 5px green, 0px 0px 10px red;
+  text-shadow: 3px 3px 6px green, 0px 0px 10px red;
 }
 
 body {
