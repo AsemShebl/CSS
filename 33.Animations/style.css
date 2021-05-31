@@ -19,7 +19,7 @@ h2 {
   text-transform: lowercase;
   font-style: italic;
   font-family: Verdana;
-  font-size: 4em;
+  font-size: 5em;
   text-shadow: 2px 2px 5px green, 0px 0px 10px red;
   background-color: hsl(0, 100%, 50%);
 }
